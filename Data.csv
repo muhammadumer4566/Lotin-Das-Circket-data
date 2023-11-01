@@ -1,0 +1,49 @@
+id,date,versus,ground,city,fours,sixes,runs,4s_last_5,6s_last_5,avg_runs,score_last_5,position,opponent_level,score_group
+3658,"18th June, 2015",India,Shere Bangla National Stadium,Mirpur,0,0,8,0.0,0.0,0.0,0.0,1,strong,low
+3660,"21st June, 2015",India,Shere Bangla National Stadium,Mirpur,5,0,36,0.0,0.0,8.0,8.0,1,strong,medium
+3661,"24th June, 2015",India,Shere Bangla National Stadium,Mirpur,3,0,34,2.5,0.0,22.0,44.0,1,strong,medium
+3662,"10th July, 2015",South Africa,Shere Bangla National Stadium,Mirpur,0,0,0,2.67,0.0,26.0,78.0,1,strong,low
+3665,"12th July, 2015",South Africa,Shere Bangla National Stadium,Mirpur,2,1,17,2.0,0.0,19.5,78.0,1,strong,low
+3668,"15th July, 2015",South Africa,Zahur Ahmed Chowdhury Stadium,Chittagong,1,0,5,2.0,0.2,19.0,95.0,1,strong,low
+3703,"7th November, 2015",Zimbabwe,Shere Bangla National Stadium,Mirpur,0,0,0,2.2,0.2,18.4,92.0,1,weak,low
+3705,"9th November, 2015",Zimbabwe,Shere Bangla National Stadium,Mirpur,0,1,7,1.2,0.2,11.2,56.0,1,weak,low
+3706,"11th November, 2015",Zimbabwe,Shere Bangla National Stadium,Mirpur,1,0,17,0.6,0.4,5.8,29.0,1,weak,low
+3923,"15th October, 2017",South Africa,Diamond Oval,Kimberley,4,0,21,0.8,0.4,9.2,46.0,1,strong,low
+3926,"18th October, 2017",South Africa,Boland Park,Paarl,1,1,14,1.2,0.2,10.0,50.0,1,strong,low
+3929,"22nd October, 2017",South Africa,Buffalo Park,East London,1,0,6,1.2,0.4,11.8,59.0,1,strong,low
+4036,"15th September, 2018",Sri Lanka,Dubai International Cricket Stadium,Dubai,0,0,0,1.4,0.4,13.0,65.0,1,strong,low
+4041,"20th September, 2018",Afghanistan,Sheikh Zayed Stadium,Abu Dhabi,0,0,6,1.4,0.2,11.6,58.0,1,weak,low
+4042,"21st September, 2018",India,Dubai International Cricket Stadium,Dubai,1,0,7,1.2,0.2,9.4,47.0,1,strong,low
+4044,"23rd September, 2018",Afghanistan,Sheikh Zayed Stadium,Abu Dhabi,3,0,41,0.6,0.2,6.6,33.0,1,weak,medium
+4047,"26th September, 2018",Pakistan,Sheikh Zayed Stadium,Abu Dhabi,0,0,6,1.0,0.0,12.0,60.0,1,strong,low
+4048,"28th September, 2018",India,Dubai International Cricket Stadium,Dubai,12,2,121,0.8,0.0,12.0,60.0,1,strong,high
+4056,"21st October, 2018",Zimbabwe,Shere Bangla National Stadium,Mirpur,0,0,4,3.2,0.4,36.2,181.0,1,weak,low
+4059,"24th October, 2018",Zimbabwe,Zahur Ahmed Chowdhury Stadium,Chittagong,12,1,83,3.2,0.4,35.8,179.0,1,weak,high
+4061,"26th October, 2018",Zimbabwe,Zahur Ahmed Chowdhury Stadium,Chittagong,0,0,0,5.4,0.6,51.0,255.0,1,weak,low
+4071,"9th December, 2018",West Indies,Shere Bangla National Stadium,Mirpur,5,0,41,4.8,0.6,42.8,214.0,1,weak,medium
+4072,"11th December, 2018",West Indies,Shere Bangla National Stadium,Mirpur,1,0,8,5.8,0.6,49.8,249.0,1,weak,low
+4073,"14th December, 2018",West Indies,Sylhet Stadium,Sylhet,5,0,23,3.6,0.2,27.2,136.0,1,weak,low
+4093,"13th February, 2019",New Zealand,McLean Park,Napier,0,0,1,4.6,0.2,31.0,155.0,1,strong,low
+4094,"16th February, 2019",New Zealand,Hagley Oval,Christchurch,0,0,1,2.2,0.0,14.6,73.0,1,strong,low
+4095,"20th February, 2019",New Zealand,University Oval,Dunedin,0,0,1,2.2,0.0,14.8,74.0,1,strong,low
+4136,"15th May, 2019",Ireland,Castle Avenue,Dublin,9,1,76,1.2,0.0,6.8,34.0,1,weak,medium
+4162,"17th June, 2019",West Indies,The Cooper Associates County Ground,Taunton,8,4,94,2.8,0.2,20.4,102.0,1,weak,high
+4166,"20th June, 2019",Australia,Trent Bridge,Nottingham,3,0,20,3.4,1.0,34.6,173.0,1,strong,low
+4172,"24th June, 2019",Afghanistan,The Rose Bowl,Southampton,2,0,16,4.0,1.0,38.4,192.0,1,weak,low
+4182,"2nd July, 2019",India,Edgbaston,Birmingham,0,1,22,4.4,1.0,41.4,207.0,1,strong,low
+4186,"5th July, 2019",Pakistan,Lord's,London,3,0,32,4.4,1.2,45.6,228.0,1,strong,medium
+4249,"1st March, 2020",Zimbabwe,Sylhet Stadium,Sylhet,13,2,126,3.2,1.0,36.8,184.0,1,weak,high
+4251,"3rd March, 2020",Zimbabwe,Sylhet Stadium,Sylhet,2,0,9,4.2,0.6,43.2,216.0,1,weak,low
+4253,"6th March, 2020",Zimbabwe,Sylhet Stadium,Sylhet,16,8,176,4.0,0.6,41.0,205.0,1,weak,super high
+4270,"20th January, 2021",West Indies,Shere Bangla National Stadium,Mirpur,2,0,14,6.8,2.2,73.0,365.0,1,weak,low
+4272,"22nd January, 2021",West Indies,Shere Bangla National Stadium,Mirpur,4,0,22,7.2,2.0,71.4,357.0,1,weak,low
+4274,"25th January, 2021",West Indies,Zahur Ahmed Chowdhury Stadium,Chittagong,0,0,0,7.4,2.0,69.4,347.0,1,weak,low
+4279,"20th March, 2021",New Zealand,University Oval,Dunedin,1,0,19,4.8,1.6,44.2,221.0,1,strong,low
+4280,"23rd March, 2021",New Zealand,Hagley Oval,Christchurch,0,0,0,4.6,1.6,46.2,231.0,1,strong,low
+4282,"26th March, 2021",New Zealand,Basin Reserve,Wellington,3,0,21,1.4,0.0,11.0,55.0,1,strong,low
+4290,"23rd May, 2021",Sri Lanka,Shere Bangla National Stadium,Mirpur,0,0,0,1.6,0.0,12.4,62.0,1,strong,low
+4291,"25th May, 2021",Sri Lanka,Shere Bangla National Stadium,Mirpur,2,0,25,0.8,0.0,8.0,40.0,1,strong,low
+4304,"16th July, 2021",Zimbabwe,Harare Sports Club,Harare,8,0,102,1.2,0.0,13.0,65.0,1,weak,high
+4307,"18th July, 2021",Zimbabwe,Harare Sports Club,Harare,4,0,21,2.6,0.0,29.6,148.0,1,weak,low
+4309,"20th July, 2021",Zimbabwe,Harare Sports Club,Harare,3,0,32,3.4,0.0,33.8,169.0,1,weak,medium
+4357,"23rd February, 2022",Afghanistan,Zahur Ahmed Chowdhury Stadium,Chittagong,0,0,1,3.4,0.0,36.0,180.0,1,weak,low
